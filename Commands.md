@@ -1,5 +1,5 @@
 #Commands
-- <a href=#section-check-os-version><Check OS verion on RPi</a>
+- <a href=#section-check-os-version>Check OS verion on RPi</a>
 - <a href=#section-reboot><Reboot<a>
 - <a href=#section-shutdown>Shutdown</a>
 
