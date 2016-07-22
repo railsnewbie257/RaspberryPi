@@ -1,9 +1,10 @@
 #Commands
+- Shutdown<a href=#section-shutdown>Shutdown</a>
 
 ####Check OS version on RPi3
-<pre>
-<b>cat /etc/os-release</b>
 
+<b>cat /etc/os-release</b>
+<pre>
 PRETTY_NAME="Raspbian GNU/Linux 8 (jessie)"
 NAME="Raspbian GNU/Linux"
 VERSION_ID="8"
@@ -15,7 +16,7 @@ SUPPORT_URL="http://www.raspbian.org/RaspbianForums"
 BUG_REPORT_URL="http://www.raspbian.org/RaspbianBugs"
 </pre>
 
-
+<div id="section-shutdown">
 ####Shutdown
 <pre>
 <b>sudo shutdown -s</b> <em>now</em>
