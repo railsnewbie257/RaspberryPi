@@ -34,7 +34,7 @@ Discovery started
 [CHG] Device F4:F9:51:D7:9A:3A RSSI: -100
 [CHG] Device F4:F9:51:D7:9A:3A RSSI: -90
 [CHG] Device F4:F9:51:D7:9A:3A RSSI: -101
-<pre>
+</pre>
 
 <div id="section-check-os-version">
 ####Check OS version on RPi3
