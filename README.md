@@ -1,1 +1,1 @@
-# RaspberryPi
+# Resource for RaspberryPi 3
