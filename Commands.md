@@ -1,6 +1,9 @@
 #Commands
-- Shutdown<a href=#section-shutdown>Shutdown</a>
+- <a href=#section-check-os-version><Check OS verion on RPi<a>
+- <a href=#section-reboot><Reboot<a>
+- <a href=#section-shutdown>Shutdown</a>
 
+<div id="section-check-os-version">
 ####Check OS version on RPi3
 
 <b>cat /etc/os-release</b>
@@ -22,6 +25,7 @@ BUG_REPORT_URL="http://www.raspbian.org/RaspbianBugs"
 <b>sudo shutdown -s</b> <em>now</em>
 </pre>
 
+<div id="section-reboot">
 ####Reboot
 <pre>
 <b>sudo shutdown -r</b> <em>now</em>
