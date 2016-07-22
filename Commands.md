@@ -69,5 +69,5 @@ BUG_REPORT_URL="http://www.raspbian.org/RaspbianBugs"
 ####Service
 <pre>
 <b>service --status-all</b>            # <em>gives a list of services</em>
-<b>service</b> <em>service-name</em>      # <em>gives further options for the command</em>
+<b>service</b> <em>service-name</em>      # <em>gives further options for the service-name</em>
 </pre>
