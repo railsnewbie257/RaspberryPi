@@ -7,8 +7,9 @@
 <div id="section-check-os-version">
 ####Check OS version on RPi3
 
-<b>cat /etc/os-release</b>
 <pre>
+<b>cat /etc/os-release</b>  # <em>look at the /etc/os-release file</em>
+
 PRETTY_NAME="Raspbian GNU/Linux 8 (jessie)"
 NAME="Raspbian GNU/Linux"
 VERSION_ID="8"
