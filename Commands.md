@@ -2,6 +2,7 @@
 - <a href=#section-check-os-version>Check OS verion on RPi</a>
 - <a href=#section-reboot>Reboot</a>
 - <a href=#section-shutdown>Shutdown</a>
+- <a href=#section-service>Service - check running services</a>
 
 <div id="section-check-os-version">
 ####Check OS version on RPi3
@@ -31,6 +32,7 @@ BUG_REPORT_URL="http://www.raspbian.org/RaspbianBugs"
 <b>sudo shutdown -r</b> <em>now</em>
 </pre>
 
+<div id="section-service">
 ####Service
 <pre>
 <b>service --status-all</b>            # <em>gives a list of services</em>
