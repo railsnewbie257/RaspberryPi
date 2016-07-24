@@ -2,6 +2,8 @@
 
 [hcitool commands](http://www.tutorialspoint.com/unix_commands/hcitool.htm)
 
+[Setting up Bluetooth on the Raspberry Pi 3](https://www.element14.com/community/docs/DOC-81266/l/setting-up-bluetooth-on-the-raspberry-pi-3)
+
 ####Bluetooth Installation
 <pre>
 <b>sudo apt-get install bluetooth bluez blueman</b>
