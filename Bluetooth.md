@@ -1,3 +1,7 @@
+<pre>
+<b>systemctl status bluetooth</b>
+</pre>
+
 [Headless Bluetooth Pairing](https://www.raspberrypi.org/forums/viewtopic.php?t=53299&p=409980)
 
 [hcitool commands](http://www.tutorialspoint.com/unix_commands/hcitool.htm)
