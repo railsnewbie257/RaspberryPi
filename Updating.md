@@ -14,4 +14,9 @@ sudo apt-get remove node* npm*
 sudo apt_get autoremove   # <em>to clean up</em>
 curl -sL https://deb.nodesource.com/setup_6.x | sudo bash   # <em>'6' is the version number</em>
 sudo apt-get install nodejs  # <em>to install</em>
+
+node -v
+# <em>v6.3.1</em>
+npm -v
+# <em>3.10.1</em>
 </pre>
