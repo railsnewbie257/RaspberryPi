@@ -1,9 +1,9 @@
 ####[Setup email on Raspberry Pi](http://www.sbprojects.com/projects/raspberrypi/exim4.php)
 
 ####Modify the config file
-<pre>
-sudo nano /etc/ssmtp/ssmtp.conf   # <em>edit config file</em>
 
+<b>sudo nano /etc/ssmtp/ssmtp.conf</b>   # <em>edit config file</em>
+<pre>
 # <em>change mailhub to use gmail</em>
 <b>mailhub=smtp.gmail.com:587</b>
 
