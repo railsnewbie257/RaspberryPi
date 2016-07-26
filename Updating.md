@@ -5,7 +5,7 @@ sudo apt-get upgrade  # <em>to actually update</em>
 sudo apt_get clean   #<em> to clean up</em>
 </pre>
 
-####To update Node.js (also see [here](https://www.raspberrypi.org/forums/viewtopic.php?f=34&t=140747)
+####To update Node.js (also see [here](https://www.raspberrypi.org/forums/viewtopic.php?f=34&t=140747))
 <pre>
 sudo apt-get remove node* npm*
 ...
