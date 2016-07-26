@@ -1,4 +1,4 @@
-##[Github Serverless](https://github.com/serverless/serverless)
+##[Github Serverless Repo](https://github.com/serverless/serverless)
 
 ##Update Node and nmp if necessary (see "Updating")
 
