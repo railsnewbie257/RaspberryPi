@@ -1,6 +1,6 @@
-####[Setup email on Raspberry Pi](http://www.sbprojects.com/projects/raspberrypi/exim4.php)
+##[Setup email on Raspberry Pi](http://www.sbprojects.com/projects/raspberrypi/exim4.php)
 
-####Modify the config file
+###Modify the config file
 
 <b>sudo nano /etc/ssmtp/ssmtp.conf</b>   # <em>edit config file</em>
 <pre>
