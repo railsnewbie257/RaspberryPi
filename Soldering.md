@@ -1,5 +1,7 @@
 ###Soldering
 
+[How to solder the secrets of good soldering](http://www.instructables.com/id/How-to-solder-the-secrets-of-good-soldering/)
+
 [Through Hole Soldering](https://learn.sparkfun.com/tutorials/how-to-solder---through-hole-soldering?_ga=1.135210549.564444804.1449868290)
 
 
