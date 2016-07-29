@@ -1,4 +1,6 @@
-###[IP Scanner for Mac OS X](http://10base-t.com/macintosh-software/ip-scanner/)
+###IP Scanner for Mac OS X
+- found in the App Store  
+- [also download here](http://10base-t.com/macintosh-software/ip-scanner/)
 
 ###Using VNC
 To install VNC
