@@ -1,8 +1,22 @@
 
-To add VNC
+###Using VNC
+To install VNC
 <pre>
 sudo apt-get install tightvncserver
 </pre>
+
+Then run VNC
+<pre>
+vncserver :1
+</pre>
+
+To check VNC is running
+<pre>
+ps -e | grep vnc
+</pre>
+
+Locking file for VNC is in `/tmp/.X1-lock`
+
 
 
 
