@@ -1,4 +1,4 @@
-###Soldering
+###Soldering - always heat the wire then apply the solder, solder flows towards heat
 
 [How to solder the secrets of good soldering (Instructables)](http://www.instructables.com/id/How-to-solder-the-secrets-of-good-soldering/)
 
@@ -8,7 +8,9 @@
 
 [How To Solder A Circuit Board](https://www.youtube.com/watch?v=208av7YtAgE)
 
-[How to solder the QuickThorough Guide (Instructables)](http://www.instructables.com/id/How-to-Solder-the-Quick-Thorough-Guide/)
+[How to solder the Quick Thorough Guide (Instructables)](http://www.instructables.com/id/How-to-Solder-the-Quick-Thorough-Guide/)
+
+[How to Solder, tips and tricks (YouTube)]https://www.youtube.com/watch?v=xrVCkEoY_8M) very good example of tinning
 
 [Through Hole Soldering](https://learn.sparkfun.com/tutorials/how-to-solder---through-hole-soldering?_ga=1.135210549.564444804.1449868290)
 
