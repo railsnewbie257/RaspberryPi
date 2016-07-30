@@ -6,6 +6,8 @@
 
 [Beginner how to Solder (YouTube)](https://www.youtube.com/watch?v=oqV2xU1fee8) very good one this!
 
+[How To Solder A Circuit Board](https://www.youtube.com/watch?v=208av7YtAgE)
+
 [How to solder the QuickThorough Guide (Instructables)](http://www.instructables.com/id/How-to-Solder-the-Quick-Thorough-Guide/)
 
 [Through Hole Soldering](https://learn.sparkfun.com/tutorials/how-to-solder---through-hole-soldering?_ga=1.135210549.564444804.1449868290)
