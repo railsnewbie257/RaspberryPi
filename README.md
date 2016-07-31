@@ -1,6 +1,8 @@
 # Resource for RaspberryPi 3
 
-[Unboxing Your Raspberry Pi (video)](https://www.youtube.com/watch?v=-6OGuhLtKbU)
+[Learning Resources (raspberrypi.org)](https://www.raspberrypi.org/resources/learn/)
+
+###1) [Unboxing Your Raspberry Pi (video)](https://www.youtube.com/watch?v=-6OGuhLtKbU)
 
 [raspberry-pi-part-1-basic-setup-without-cables](http://blog.self.li/post/63281257339/raspberry-pi-part-1-basic-setup-without-cables)
 
