@@ -81,5 +81,5 @@ To `kill` a process use `ps -ef` to get PID and then `kill -9 <em>PID</em>` to k
 <pre>
 <b>pwd</b>  # <em>to see current directory where screenshot will be saved</em>
 <b>scrot</b> <em>file-name.jpg|.png</em> #<em>take a screen shot</em>
-<b>scrot -d</em> <em>seconds-delay file-name</em>  
+<b>scrot -d</b> <em>seconds-delay file-name</em>  
 </pre>
