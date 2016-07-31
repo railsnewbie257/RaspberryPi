@@ -2,8 +2,10 @@
 - <a href=#section-bluetoothctl>Bluetooth</a>
 - <a href=#section-check-os-version>Check OS verion on RPi</a>
 - <a href=#section-reboot>Reboot</a>
+- <a href=#section-screen-shots>Screenshots</a>
+- - <a href=#section-service>Service - check running services</a>
 - <a href=#section-shutdown>Shutdown</a>
-- <a href=#section-service>Service - check running services</a>
+
 
 <div id="section-bluetoothctl">
 ####Bluetooth
@@ -70,4 +72,14 @@ BUG_REPORT_URL="http://www.raspbian.org/RaspbianBugs"
 <pre>
 <b>service --status-all</b>            # <em>gives a list of services</em>
 <b>service</b> <em>service-name</em>      # <em>gives further options for the service-name</em>
+</pre>
+
+To `kill` a process use `ps -ef` to get PID and then `kill -9 <em>PID</em>` to kill it
+
+<div id="section-screen-shots">
+####[Screenshots with scrot](http://www.freesoftwaremagazine.com/articles/how_to_take_screenshots_with_scrot)
+<pre>
+<b>pwd</b>  # <em>to see current directory where screenshot will be saved</em>
+<b>scrot</b> <em>file-name.jpg|.png</em> #<em>take a screen shot</em>
+<b>scrot -d</em> <em>seconds-delay file-name</em>  
 </pre>
