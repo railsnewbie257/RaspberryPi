@@ -4,13 +4,13 @@
 
 [Power It Up - Practice Soldering (YouTube)](https://www.youtube.com/watch?v=ZHf0gZwLbkk)
 
-[Beginner how to Solder (YouTube)](https://www.youtube.com/watch?v=oqV2xU1fee8) very good one this!
+[Beginner how to Solder (YouTube)](https://www.youtube.com/watch?v=oqV2xU1fee8) - very good one this!
 
 [How To Solder A Circuit Board](https://www.youtube.com/watch?v=208av7YtAgE)
 
 [How to solder the Quick Thorough Guide (Instructables)](http://www.instructables.com/id/How-to-Solder-the-Quick-Thorough-Guide/)
 
-[How to Solder, tips and tricks (YouTube)](https://www.youtube.com/watch?v=xrVCkEoY_8M) very good example of tinning
+[How to Solder, tips and tricks (YouTube)](https://www.youtube.com/watch?v=xrVCkEoY_8M) - very good example of tinning
 
 [Through Hole Soldering](https://learn.sparkfun.com/tutorials/how-to-solder---through-hole-soldering?_ga=1.135210549.564444804.1449868290)
 
@@ -22,7 +22,7 @@
 
 [Prepping Your Soldering Iron (YouTube)](https://www.youtube.com/watch?v=2dCHpb9pi9A) - short, sweet, to the point, nice idea for prescription bottle as solder carrier
 
-[Simply Swank Trouble with tips Part 1 (YouTube)](https://www.youtube.com/watch?v=QInZAt4VKiU)  - good clear explaination
+[Simply Swank Trouble with tips Part 1 (YouTube)](https://www.youtube.com/watch?v=QInZAt4VKiU)  - good clear explaination   
 [Simply Swank Trouble with Tips part 2 (YouTube)](https://www.youtube.com/watch?v=Y6A00mUXudw)
 
 [How to Tin a Soldering Iron Tip or Re-tin an Old Soldering Iron Tip (YouTube)](https://www.youtube.com/watch?v=7PWmMxjXwYE)
