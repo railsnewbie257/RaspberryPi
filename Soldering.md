@@ -14,6 +14,18 @@
 
 [Through Hole Soldering](https://learn.sparkfun.com/tutorials/how-to-solder---through-hole-soldering?_ga=1.135210549.564444804.1449868290)
 
+###Tin Your Solder Iron Tip
+[How to tin a Soldering Iron (YouTube)](https://www.youtube.com/watch?v=XaKTzLy85N0) - wrap new tip with solder and turn on  
+[Tinning A Soldering Iron TIP (YouTube)](https://www.youtube.com/watch?v=cB64dkcYcHE) - mentions tip retinning compound  
+
+[Soldering Iron Tip Seasoning and General Care (YouTube)](https://www.youtube.com/watch?v=aXwjykIVuJM)
+
+[Prepping Your Soldering Iron (YouTube)](https://www.youtube.com/watch?v=2dCHpb9pi9A) - short, sweet, to the point, nice idea for prescription bottle as solder carrier
+
+[Simply Swank Trouble with tips Part 1 (YouTube)](https://www.youtube.com/watch?v=QInZAt4VKiU)  - good clear explaination
+[Simply Swank Trouble with Tips part 2 (YouTube)](https://www.youtube.com/watch?v=Y6A00mUXudw)
+
+[How to Tin a Soldering Iron Tip or Re-tin an Old Soldering Iron Tip (YouTube)](https://www.youtube.com/watch?v=7PWmMxjXwYE)
 
 ####From: http://www.electro-tech-online.com/threads/dull-coulored-solder-joints.127272/
 ----
