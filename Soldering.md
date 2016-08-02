@@ -12,7 +12,7 @@
 
 [How to Solder, tips and tricks (YouTube)](https://www.youtube.com/watch?v=xrVCkEoY_8M) - very good example of tinning
 
-[Through Hole Soldering](https://learn.sparkfun.com/tutorials/how-to-solder---through-hole-soldering?_ga=1.135210549.564444804.1449868290)
+[Through Hole Soldering (Sparkfun)](https://learn.sparkfun.com/tutorials/how-to-solder---through-hole-soldering?_ga=1.135210549.564444804.1449868290)
 
 ###Tin Your Solder Iron Tip
 [How to tin a Soldering Iron (YouTube)](https://www.youtube.com/watch?v=XaKTzLy85N0) - wrap new tip with solder and turn on  
