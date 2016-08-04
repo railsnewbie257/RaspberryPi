@@ -1,4 +1,4 @@
-####Rapsberry Pi Supercomputer
+####Raspberry Pi Supercomputer
 
 [The RPiCluster (33 node cluster) (YouTube)](https://www.youtube.com/watch?v=i_r3z1jYHAc)  
 
