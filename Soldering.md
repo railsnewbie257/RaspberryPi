@@ -14,6 +14,14 @@
 
 [Through Hole Soldering (Sparkfun)](https://learn.sparkfun.com/tutorials/how-to-solder---through-hole-soldering?_ga=1.135210549.564444804.1449868290)
 
+###Desoldering header pins
+[How to Desolder and Remove Headers from an Arduino Nano (and how not to) (YouTube)](https://www.youtube.com/watch?v=5N7rCttQJJE)
+
+[Quick and Dirty: Desoldering a 28-pin DIP using Wick and Flux (YouTube)](https://www.youtube.com/watch?v=rdI3xDlzxVU) - step by step on an IC
+
+[How to Desolder Through-Hole Parts, Why Some Joints are Difficult (YouTube)](https://www.youtube.com/watch?v=Z38WsZFmq8E) - good overall explaianation
+
+
 ###Tin Your Solder Iron Tip
 [How to tin a Soldering Iron (YouTube)](https://www.youtube.com/watch?v=XaKTzLy85N0) - wrap new tip with solder and turn on  
 [Tinning A Soldering Iron TIP (YouTube)](https://www.youtube.com/watch?v=cB64dkcYcHE) - mentions tip retinning compound  
