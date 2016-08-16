@@ -15,3 +15,6 @@
 ###10) Interesting Projects
 
 [SSH over Bluetooth with iOS (stackexchange)](http://raspberrypi.stackexchange.com/questions/53509/ssh-over-bluetooth-with-ios)
+
+[Build your own Kinect](http://machinevision4users.blogspot.com/2012/05/build-your-own-kinect.html)  
+[Kinect-Like 3D camera (blog)](http://www.hackengineer.com/3dcam/)  
