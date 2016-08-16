@@ -14,3 +14,4 @@
 
 ###10) Interesting Projects
 
+[SSH over Bluetooth with iOS (stackexchange)](http://raspberrypi.stackexchange.com/questions/53509/ssh-over-bluetooth-with-ios)
