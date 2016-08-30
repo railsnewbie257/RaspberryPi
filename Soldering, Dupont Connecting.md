@@ -1,4 +1,6 @@
-###Dupont Wires
+###Dupont Wires  
+Crimping for Dupont cnnectors needs a "wrapping" connection, not a "biting" connection
+
 [Five Tricks for working with Dupont wires (YouTube)](https://www.youtube.com/watch?v=eI3fxTH6f6I)
 
 [Crimping Videos](https://www.youtube.com/watch?v=JChLj_F3Gss)
