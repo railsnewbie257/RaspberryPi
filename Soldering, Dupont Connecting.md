@@ -1,6 +1,7 @@
 ###Dupont Wires
 [Five Tricks for working with Dupont wires (YouTube)](https://www.youtube.com/watch?v=eI3fxTH6f6I)
 
+[Crimping Videos](https://www.youtube.com/watch?v=JChLj_F3Gss)
 
 ###Soldering - always heat the wire then apply the solder, solder flows towards heat
 
