@@ -1,4 +1,4 @@
-###Videos to watch:
+###Alexa Voice Service - Videos to watch:
 
 ###[Original Sam Machin article](http://sammachin.com/the-10-echo/)  
 ###[Installing Alexa Voice Service to Raspberry Pi (YouTube)](https://www.youtube.com/watch?v=frH9HaQTFL8)
@@ -22,3 +22,7 @@ To find an already registered device go to Developer Console:
 </pre>
 
 ###[ifttt - if then that](https://ifttt.com)
+
+###Robot
+
+[Mars Curiosity inspired Rover (blog)](http://letsmakerobots.com/node/49149)
