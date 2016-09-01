@@ -1,4 +1,4 @@
-[Installing Alexa Voice Service to Raspberry Pi (YouTube)](https://www.youtube.com/watch?v=frH9HaQTFL8)
+###[Installing Alexa Voice Service to Raspberry Pi (YouTube)](https://www.youtube.com/watch?v=frH9HaQTFL8)
 
 Create developer account at http://developer.amazon.com   
 
@@ -9,3 +9,5 @@ To find an already registered device go to Developer Console:
 - Edit  
 - page through to get security codes and things
 </pre>
+
+###[ifttt - if then that](https://ifttt.com)
