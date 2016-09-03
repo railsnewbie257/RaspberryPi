@@ -11,7 +11,10 @@ Uses GIO #18
 </pre>
 
 ###Instructions
-Create developer account at http://developer.amazon.com   
+
+1. Download Git repository
+
+2. Create developer account at http://developer.amazon.com   
 
 Using as railsnewbie257@gmail.com
 <pre>
@@ -19,6 +22,13 @@ To find an already registered device go to Developer Console:
 - Alexa Voice Services  
 - Edit  
 - page through to get security codes and things
+</pre>
+
+3. Setup
+###[Setup on Raspberry Pi (YouTube)](https://www.youtube.com/watch?v=d2KvT8tcmNU&t=17m53s0)
+
+<pre>
+<b>sudo ./setup.sh</b>
 </pre>
 
 ###[ifttt - if then that](https://ifttt.com)
