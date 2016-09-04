@@ -1,11 +1,16 @@
 ###Alexa Voice Service - Videos to watch:
 
-###[Original Sam Machin article](http://sammachin.com/the-10-echo/)  
-###[Installing Alexa Voice Service to Raspberry Pi (YouTube)](https://www.youtube.com/watch?v=frH9HaQTFL8)
-###[How to Build an Amazon Echo Raspberry Pi | From Start To Finish (YouTube)](https://www.youtube.com/watch?v=d2KvT8tcmNU)
+###1. Original [Sam Machin article](http://sammachin.com/the-10-echo/)  
+(link to **THE** github repository)
+###2. [Installing Alexa Voice Service to Raspberry Pi (YouTube)](https://www.youtube.com/watch?v=frH9HaQTFL8)
+(showed how to setup the URLs in Amazon Development for access)
+
+###3. [How to Build an Amazon Echo Raspberry Pi | From Start To Finish (YouTube)](https://www.youtube.com/watch?v=d2KvT8tcmNU)  
+(seems to be a copy of #2, but does show how to hack a button press)
+
 explains entire setup on Raspberry Pi  
 <pre>
-Uses GIO #18
+Uses GPIO #18
 
 <a href=https://www.youtube.com/watch?v=d2KvT8tcmNU&t=21m27s>Simulate button press without button - pull GPIO #18 to GND while asking question</a>
 </pre>
