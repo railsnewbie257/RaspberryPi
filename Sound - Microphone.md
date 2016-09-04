@@ -15,14 +15,16 @@ card 1: Device [USB PnP Sound Device], device 0: USB Audio [USB Audio]
 
 
 - To record
+
 <pre>
 $ <b>arecord -D plughw:1,0</b> <em>test.wav</em>
 
 </pre>
 
 - To play
+
 <pre>
-$ <b>omxplayer</b> <em>test.wav</em>
+$ <b>omxplayer</b> <em>test.wav</em>  
 
 $ <b>aplay <em>test.wav</em>
 </pre>
