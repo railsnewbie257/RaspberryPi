@@ -1,5 +1,9 @@
 # Resource for RaspberryPi 3
 
+##[Raspberry Pi 3 Pinout (jpg)](http://data.designspark.info/uploads/images/53bc258dc6c0425cb44870b50ab30621)
+
+##[Raspberry Pi 3 Pinout (Microsoft)](https://developer.microsoft.com/en-us/windows/iot/docs/pinmappingsrpi)
+
 [Learning Resources (raspberrypi.org)](https://www.raspberrypi.org/resources/learn/)
 
 ###1) [Unboxing Your Raspberry Pi (video)](https://www.youtube.com/watch?v=-6OGuhLtKbU)
