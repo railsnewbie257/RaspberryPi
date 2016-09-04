@@ -26,5 +26,5 @@ $ <b>arecord -D plughw:1,0</b> <em>test.wav</em>
 <pre>
 $ <b>omxplayer</b> <em>test.wav</em>  
 
-$ <b>aplay <em>test.wav</em>
+$ <b>aplay</b> <em>test.wav</em>
 </pre>
