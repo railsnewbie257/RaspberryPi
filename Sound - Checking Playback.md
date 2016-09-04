@@ -28,3 +28,7 @@ example.mp3                   100%[=============================================
 <pre>
 $ <b>omxplayer</b> <em>example.mp3</em>
 </pre>
+
+aplay not working but omxplayer is   
+https://www.raspberrypi.org/forums/viewtopic.php?f=91&t=7663   
+https://gist.github.com/mcandre/b11c0817d0f3976a9840   
