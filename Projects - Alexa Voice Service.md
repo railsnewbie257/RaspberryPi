@@ -1,3 +1,9 @@
+###Pinout
+USB Microphone -> RPi3 USB  
+USB Keyboard -> RPI3 USB  (need this for resetting up)  
+HDMI Cable RPi3 -> TV
+
+
 ###Alexa Voice Service - Videos to watch:
 
 ###1. Original [Sam Machin article](http://sammachin.com/the-10-echo/)  
