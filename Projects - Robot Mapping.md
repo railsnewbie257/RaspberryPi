@@ -1,3 +1,6 @@
+[A* search algorithm (wiki)](https://en.wikipedia.org/wiki/A*_search_algorithm)  
+[Dijkstra's algorithm (wiki)](https://en.wikipedia.org/wiki/Dijkstra%27s_algorithm)
+
 [Robot Mapping using Laser and Kinect-like Sensor (YouTube)](https://www.youtube.com/watch?v=o1GSQanY-Do)
 
 ###Course on Robot Mapping
