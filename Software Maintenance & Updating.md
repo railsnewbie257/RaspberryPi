@@ -33,6 +33,15 @@ $ <b>sudo apt-get dist-upgrade</b>
     contains a list of locations from which to retrieve desired package
     files. See also apt_preferences(5) for a mechanism for overriding
     the general settings for individual packages.
+    
+    However, there are occasional changes made in the Foundation's Raspbian 
+    image that require manual intervention, for example a newly introduced 
+    package. These are not installed with an <b>upgrade</b>, as this command 
+    only updates the packages you already have installed.
+    
+    The kernel and firmware are installed as a Debian package, and so will 
+    also get updates when using the procedure above. These packages are 
+    updated infrequently and after extensive testing.
 </pre>
     
 $ <b>sudo apt full-upgrade</b>
