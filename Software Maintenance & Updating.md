@@ -1,13 +1,19 @@
 ###[Updating Raspbian](https://www.youtube.com/watch?v=-6OGuhLtKbU&t=15m52s)
 
-$ <b>sudo apt-get update</b>   # <em>to update trees</em>   
+<em>to update trees</em>   
+$ <b>sudo apt-get update</b>   
 
-$ <b>sudo apt-get dist-upgrade</b>   
-$ <b>sudo apt-get upgrade</b>  # <em>to actually update</em>   
-$ <b>sudo apt-get clean</b>   #<em> to clean up</em>   
+<em>upgrade all installed packages</em>  
+$ <b>sudo apt-get dist-upgrade</b> 
+
+<em>to actually update</em>  
+$ <b>sudo apt-get upgrade</b>   
+
+<em>to clean up afterwards</em>   
+$ <b>sudo apt-get clean</b>   
 
 
-####To update Node.js (also see [here](https://www.raspberrypi.org/forums/viewtopic.php?f=34&t=140747))
+###To update Node.js (also see [here](https://www.raspberrypi.org/forums/viewtopic.php?f=34&t=140747))
 
 $ <b>sudo apt-get remove</b> <em>node* npm*</em>
 <pre>
