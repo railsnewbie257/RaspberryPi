@@ -2,15 +2,16 @@
 
 <em>to update trees</em>   
 $ <b>sudo apt-get update</b>   
-
-    An update must be performed first so that apt-get knows that 
+<pre>
+    An <b>update</b> must be performed first so that apt-get knows that 
     new versions of packages are available.
-    
+</pre>
+
 <em>Check which to use between **update** and **dist-update**</em>  
 
 $ <b>sudo apt-get upgrade</b>   
-
-    upgrade is used to install the newest versions of all packages
+<pre>
+    <b>upgrade</b> is used to install the newest versions of all packages
     currently installed on the system from the sources enumerated in
     /etc/apt/sources.list. Packages currently installed with new
     versions available are retrieved and upgraded; under no
@@ -19,10 +20,11 @@ $ <b>sudo apt-get upgrade</b>
     currently installed packages that cannot be upgraded without
     changing the install status of another package will be left at
     their current version. 
+</pre>
 
 $ <b>sudo apt-get dist-upgrade</b> 
-
-    dist-upgrade in addition to performing the function of upgrade,
+<pre>
+    <b>dist-upgrade</b> in addition to performing the function of <b>upgrade</b>,
     also intelligently handles changing dependencies with new versions
     of packages; apt-get has a "smart" conflict resolution system, and
     it will attempt to upgrade the most important packages at the
@@ -31,7 +33,15 @@ $ <b>sudo apt-get dist-upgrade</b>
     contains a list of locations from which to retrieve desired package
     files. See also apt_preferences(5) for a mechanism for overriding
     the general settings for individual packages.
+</pre>
     
+$ <b>sudo apt full-upgrade</b>
+<pre>
+    <b>full-upgrade</b> performs the function of upgrade but may also remove
+    installed packages if that is required in order to resolve a
+    package conflict.
+</pre>
+
 <em>to clean up afterwards</em>   
 $ <b>sudo apt-get clean</b>   
 
