@@ -3,12 +3,35 @@
 <em>to update trees</em>   
 $ <b>sudo apt-get update</b>   
 
-<em>upgrade all installed packages</em>  
-$ <b>sudo apt-get dist-upgrade</b> 
+    An update must be performed first so that apt-get knows that 
+    new versions of packages are available.
+    
+<em>Check which to use between **update** and **dist-update**</em>  
 
-<em>to actually update</em>  
 $ <b>sudo apt-get upgrade</b>   
 
+    upgrade is used to install the newest versions of all packages
+    currently installed on the system from the sources enumerated in
+    /etc/apt/sources.list. Packages currently installed with new
+    versions available are retrieved and upgraded; under no
+    circumstances are currently installed packages removed, or packages
+    not already installed retrieved and installed. New versions of
+    currently installed packages that cannot be upgraded without
+    changing the install status of another package will be left at
+    their current version. 
+
+$ <b>sudo apt-get dist-upgrade</b> 
+
+    dist-upgrade in addition to performing the function of upgrade,
+    also intelligently handles changing dependencies with new versions
+    of packages; apt-get has a "smart" conflict resolution system, and
+    it will attempt to upgrade the most important packages at the
+    expense of less important ones if necessary. So, dist-upgrade
+    command may remove some packages. The /etc/apt/sources.list file
+    contains a list of locations from which to retrieve desired package
+    files. See also apt_preferences(5) for a mechanism for overriding
+    the general settings for individual packages.
+    
 <em>to clean up afterwards</em>   
 $ <b>sudo apt-get clean</b>   
 
