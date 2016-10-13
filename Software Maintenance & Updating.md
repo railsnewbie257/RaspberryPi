@@ -11,7 +11,7 @@ $ <b>sudo apt-get update</b>
 
 $ <b>sudo apt-get upgrade</b>   
 <pre>
-    <b>upgrade</b> is used to install the newest versions of all packages
+<b>upgrade</b> is used to install the newest versions of <b>all packages</b>
     currently installed on the system from the sources enumerated in
     /etc/apt/sources.list. Packages currently installed with new
     versions available are retrieved and upgraded; under no
