@@ -4,6 +4,8 @@ https://smile.amazon.com/gp/product/B013JEV6VA/ref=oh_aui_detailpage_o02_s00?ie=
 Company:   
 http://www.elecrow.com/35-inch-480x320-tft-display-with-touch-screen-for-raspberry-pi-p-1385.html
 
+http://www.waveshare.com/wiki/RPi-Image-Installation-Guides
+
 1) Download .tarz for the .img file (1.7GB takes long time)  
 2) Decompress .tarz (takes time)  
 3) Check mounted disks "<b>df -h</b>"
