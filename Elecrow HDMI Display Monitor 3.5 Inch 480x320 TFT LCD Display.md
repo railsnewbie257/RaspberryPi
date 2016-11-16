@@ -40,3 +40,5 @@ $ <b>sudo dd bs=4m if=RPi-35inch-LCD-Raspbian-160728.img of=/dev/disk2</b>
 1847+0 records out
 7746879488 bytes transferred in 3583.259509 secs (2161964 bytes/sec)
 </pre>
+6) Plug 3.5 monitor in and reboot  
+9) <b>sudo apt-get update</b>
