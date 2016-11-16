@@ -33,7 +33,7 @@ $ <b>sudo diskutil umount /dev/disk2s1</b>
 <pre>
 Volume RECOVERY on disk2s1 unmounted
 </pre>
-5) Write .img to SD card (does not show update status, takes a long time)   
+5) Write .img to SD card (does not show update status, takes a long time, about an hour)   
 $ <b>sudo dd bs=4m if=RPi-35inch-LCD-Raspbian-160728.img of=/dev/disk2</b>
 <pre>
 1847+0 records in
