@@ -31,3 +31,10 @@ $ <b>hostname</b>
 <pre>
 RPi-35display
 </pre>
+
+####Add Bonjour so can discover RPi using hostname not ip addr
+$ <b>sudo apt-get update</b>  
+$ <b>sudo apt-get install libnss-mdns</b>  
+
+The from laptop
+$ <b>ping -c 4</b> <em>RPi-35display</em><b>.local</b>
