@@ -32,7 +32,12 @@ $ <b>hostname</b>
 RPi-35display
 </pre>
 
-####Add Bonjour so can discover RPi using hostname not ip addr
+###SSH Keys are saved in
+<pre>
+~/.sshknown_hosts
+</pre>
+
+###Add Bonjour so RPi can be discovered using hostname not ip addr
 $ <b>sudo apt-get update</b>  
 $ <b>sudo apt-get install libnss-mdns</b>  
 
