@@ -43,3 +43,6 @@ $ <b>sudo apt-get install libnss-mdns</b>
 
 The from laptop
 $ <b>ping -c 4</b> <em>RPi-35display</em><b>.local</b>
+
+###avahi is the server for hostname
+$ <b>sudo service avahi-daemon restart</b>
