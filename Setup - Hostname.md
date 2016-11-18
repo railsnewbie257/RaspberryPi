@@ -4,7 +4,7 @@ raspberrypi
 </pre>
 
 
-###Changing the hostname
+##Changing the hostname
 
 1) edit <b>/etc/hosts</b>
 <pre>
@@ -32,17 +32,17 @@ $ <b>hostname</b>
 RPi-35display
 </pre>
 
-###SSH Keys are saved in
+##SSH Keys are saved in
 <pre>
 ~/.sshknown_hosts
 </pre>
 
-###Add Bonjour so RPi can be discovered using hostname not ip addr
+##Add Bonjour so RPi can be discovered using hostname not ip addr
 $ <b>sudo apt-get update</b>  
 $ <b>sudo apt-get install libnss-mdns</b>  
 
 The from laptop
 $ <b>ping -c 4</b> <em>RPi-35display</em><b>.local</b>
 
-###avahi is the server for hostname
+##avahi is the server for hostname
 $ <b>sudo service avahi-daemon restart</b>
