@@ -1,3 +1,5 @@
+##Checking hostname
+
 $ <b>hostname</b>
 <pre>
 raspberrypi
