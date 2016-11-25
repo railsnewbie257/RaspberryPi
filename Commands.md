@@ -1,3 +1,5 @@
+$ <b>df -Bm</b>    #  disk space
+
 #Commands
 - <a href=#section-bluetoothctl>Bluetooth</a>
 - <a href=#section-check-os-version>Check OS verion on RPi</a>
