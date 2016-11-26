@@ -1,4 +1,6 @@
-$ <b>df -Bm</b>    #  disk space
+<b>SD card space</b>
+ 
+$ <b>df -Bm</b>   
 
 #Commands
 - <a href=#section-bluetoothctl>Bluetooth</a>
@@ -11,9 +13,10 @@ $ <b>df -Bm</b>    #  disk space
 
 <div id="section-bluetoothctl">
 ####Bluetooth
-<pre>
-<b>bluetoothctl</b>
 
+$ <b>bluetoothctl</b>
+
+<pre>
 [NEW] Controller B8:27:EB:E6:18:F9 raspberrypi [default]
 [bluetooth]#
 
@@ -43,9 +46,9 @@ Discovery started
 <div id="section-check-os-version">
 ####Check OS version on RPi3
 
-<pre>
-<b>cat /etc/os-release</b>  # <em>look at the /etc/os-release file</em>
+$ <b>cat /etc/os-release</b>  # <em>look at the /etc/os-release file</em>
 
+<pre>
 PRETTY_NAME="Raspbian GNU/Linux 8 (jessie)"
 NAME="Raspbian GNU/Linux"
 VERSION_ID="8"
@@ -59,29 +62,29 @@ BUG_REPORT_URL="http://www.raspbian.org/RaspbianBugs"
 
 <div id="section-shutdown">
 ####Shutdown
-<pre>
-<b>sudo shutdown -s</b> <em>now</em>
-</pre>
+
+$ <b>sudo shutdown -s</b> <em>now</em>  
+
 
 <div id="section-reboot">
 ####Reboot
-<pre>
-<b>sudo shutdown -r</b> <em>now</em>
-</pre>
+
+$ <b>sudo shutdown -r</b> <em>now</em>
+
 
 <div id="section-service">
 ####Service
-<pre>
-<b>service --status-all</b>            # <em>gives a list of services</em>
-<b>service</b> <em>service-name</em>      # <em>gives further options for the service-name</em>
-</pre>
+
+$ <b>service --status-all</b>            # <em>gives a list of services</em>  
+$ <b>service</b> <em>service-name</em>      # <em>gives further options for the service-name</em>  
+
 
 To `kill` a process use `ps -ef` to get PID and then `kill -9 <em>PID</em>` to kill it
 
 <div id="section-screen-shots">
 ####[Screenshots with scrot](http://www.freesoftwaremagazine.com/articles/how_to_take_screenshots_with_scrot)
 <pre>
-<b>pwd</b>  # <em>to see current directory where screenshot will be saved</em>
-<b>scrot</b> <em>file-name.jpg|.png</em> #<em>take a screen shot</em>
-<b>scrot -d</b> <em>seconds-delay file-name</em>  
+$ <b>pwd</b>  # <em>to see current directory where screenshot will be saved</em>
+$ <b>scrot</b> <em>file-name.jpg|.png</em> #<em>take a screen shot</em>
+$ <b>scrot -d</b> <em>seconds-delay file-name</em>  
 </pre>
