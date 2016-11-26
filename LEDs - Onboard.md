@@ -4,10 +4,10 @@ The green OK LED can be controlled from software. It's available as /sys/class/l
 
 The kernel LED driver, which controls led0, has "triggers" which let some other part of the kernel control the LED.   
 The default trigger for the LED is 'mmc0', which makes it come on when the SD card is accessed.
-
-root@raspberrypi:~# cat /sys/class/leds/led0/trigger   
+<pre>
+$ <b>cat /sys/class/leds/led0/trigger</b>   
 none [mmc0]
-
+</pre>
 Here, the **mmc0** trigger is selected. You can deactivate this as follows:
 <pre>
 $ <b>echo none >/sys/class/leds/led0/trigger</b>
